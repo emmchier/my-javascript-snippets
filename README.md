@@ -1,6 +1,6 @@
 # my-javascript-snippets
 A snippet system list to JavaScript in Visual Studio Code
-
+```
 1."Arrow function with params" --> "afunp"
 2."Arrow function without params" --> "afun"
 3."Show an item list" --> "rvc"
