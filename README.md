@@ -3,7 +3,7 @@ A snippet system list to JavaScript in Visual Studio Code
 ```
 1."Arrow function with params" --> "afunp"
 2."Arrow function without params" --> "afun"
-3."Show an item list" --> "rvc"
+3."Show a list of items" --> "rvc"
 4."Create html element from JavaScript" --> "create"
 5."Array list with an object" --> "arr"
 6."Array list object" --> "arro"
@@ -38,7 +38,7 @@ A snippet system list to JavaScript in Visual Studio Code
 	],
 	"description": "Arrow function without params"
 },
-"Show an item list": {
+"Show a list of items": {
 	"prefix": "rvc",
 	"body": [
 		"document.addEventListener('DOMContentLoaded', () => {",
@@ -65,7 +65,7 @@ A snippet system list to JavaScript in Visual Studio Code
 		"}",
 		"$0"
 	],
-	"description": "Show an item list"
+	"description": "Show a list of items"
 },
 "Create html element from JavaScript": {
 	"prefix": "create",
