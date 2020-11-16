@@ -15,7 +15,7 @@ A snippet system list to JavaScript in Visual Studio Code
 12."Set eventListener on let or const" --> ".event"
 13."Set onClick method" --> ".click"
 14."Set mouseOver method" --> ".hover"
-
+```
 ## include in your javascript.json file:
 ```
 "Arrow function with params": {
