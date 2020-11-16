@@ -32,7 +32,7 @@ A snippet system list to JavaScript in Visual Studio Code
 	"prefix": "afun",
 	"body": [
 		"const ${1:name} = () => {",
-		"   ${2:params}",
+		"   ${2://content}",
 		"};",
 		"$0"
 	],
