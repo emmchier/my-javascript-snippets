@@ -113,7 +113,7 @@ A snippet system list to JavaScript in Visual Studio Code
 	],
 	"description": "Call function with params"
 },
-"Get view in const or let": {
+"Get view": {
 	"prefix": "getv",
 	"body": [
 		"document.querySelector('${1:container}')${2:;}",
