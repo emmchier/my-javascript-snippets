@@ -2,7 +2,7 @@
 A snippet system to JavaScript in Visual Studio Code
 
 ## include in your javascript.json file:
-
+```
 "Arrow function with params": {
 		"prefix": "afunp",
 		"body": [
@@ -162,3 +162,4 @@ A snippet system to JavaScript in Visual Studio Code
 		],
 		"description": "Set mouseOver method"
 	}
+	```
